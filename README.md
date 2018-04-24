@@ -21,6 +21,7 @@ PH250B is the second course in a sequence about epidemiological methods ..
 Homework is assigned weekly and graded by the following week ...
 
 #### Grades
+
 Activity  | Grade
 :---      | :---
 Participation | 1%
@@ -48,7 +49,7 @@ OH: M,W 2:00-3:00pm, 777 University Hall
 Some Head GSI  
 OH: M,W 2:00-3:00pm, 432 University Hall
 
-![alt text](http://sph.berkeley.edu/sites/default/files/styles/faculty_profile_detail_page/public/colford_0.jpg?itok=9UJsJzQb "Jack")
+![alt text](http://sph.berkeley.edu/sites/default/files/styles/faculty_profile_detail_page/public/colford_0.jpg?itok=9UJsJzQb "Jade")
 
 ***
 #### GSI Team
