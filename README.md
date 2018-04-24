@@ -22,7 +22,7 @@ Homework is assigned weekly and graded by the following week ...
 
 #### Grades
 Activity  | Grade
-:--       | :--
+:---      | :---
 Participation | 1%
 Tutorials     | 4%
 Homework      | 15%
