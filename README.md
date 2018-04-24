@@ -3,7 +3,7 @@
 
 Topic | Tutorial  | Homework  | Reading
 :--   | :-:       | :-:       | :-:    
-Introduction to R | R Basics | HW1 | [Chapter 1](http://r4ds.had.co.nz/index.html)
+Introduction to R | R Basics | HW1 (due 9/5) | [Chapter 1](http://r4ds.had.co.nz/index.html)
 Prevalence |||
 Incidence |||
 Converting Between Incidence & Prevalence |||
