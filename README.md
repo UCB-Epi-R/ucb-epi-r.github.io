@@ -12,32 +12,12 @@ Risk Ratios |||
 Odds Ratios |||
 Population Attributable Fractions |||
 
-# Syllabus
-
-#### Course Description
-PH250B is the second course in a sequence about epidemiological methods ..
-
-#### Homework
-Homework is assigned weekly and graded by the following week ...
-
-#### Grades
-
-Activity  | Grade
-:---      | :---
-Participation | 1%
-Tutorials     | 4%
-Homework      | 15%
-Midterm       | 20%
-Project       | 25%
-Final         | 30%
-
-Overall, in past semesters of PH250B, roughly ~50% of students received grades in the A+/A/A- range, and ~40% received grades in the B+/B/B- range.
 
 #### Late Submissions
 Tutorials are not accepted late. Homework loses 10% per day late.
 
 
-# Staff
+# Contact
 #### Instructor
 [Jade Benjamin-Chung](mailto:jadebc@berkeley.edu)  
 OH: M,W 2:00-3:00pm, 777 University Hall
