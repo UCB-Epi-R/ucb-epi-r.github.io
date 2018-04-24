@@ -1,2 +1,2 @@
-# PH150B
-Course website for PH150B
+# PH250B
+Course website for PH250B
