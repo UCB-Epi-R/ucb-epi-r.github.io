@@ -1,5 +1,4 @@
-# Course Schedule
-##### Introduction to R for Epidemiologists
+# Introduction to R for Epidemiologists
 
 Topic | Tutorial  | Homework  | Reading
 :--   | :-:       | :-:       | :-:    
