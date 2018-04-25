@@ -12,11 +12,6 @@ Risk Ratios |||
 Odds Ratios |||
 Population Attributable Fractions |||
 
-
-#### Late Submissions
-Tutorials are not accepted late. Homework loses 10% per day late.
-
-
 # Contact
 [Jade Benjamin-Chung](mailto:jadebc@berkeley.edu)  
 
