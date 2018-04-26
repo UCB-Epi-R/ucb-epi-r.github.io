@@ -14,4 +14,5 @@ Population Attributable Fractions |||
 # Contact
 [Jade Benjamin-Chung](mailto:jadebc@berkeley.edu)  
 
+<a href="https://raw.githubusercontent.com/kmishra9/PH241/master/Final%20Project/Data/washb-bangladesh-tr-public.csv" download>Example of Data direct download from GitHub</a>
 <!-- ![alt text](http://bbd.berkeley.edu/uploads/5/4/3/7/54378593/published/benjamin-chung-jade_1.jpeg?1507227294 "Jade") -->
