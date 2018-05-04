@@ -4,7 +4,7 @@
 |--- | :--- | :---:       | :---:       | :---:    
 |1 | <b>Introduction</b> |||
 |1.1 | Introduction to R | R Basics | Homework <br /><a href="https://raw.githubusercontent.com/kmishra9/PH241/master/Final%20Project/Data/washb-bangladesh-tr-public.csv" download>Data</a>| [Chapter 1 - Introduction](http://r4ds.had.co.nz/index.html) <br /> [Chapter 4 - Workflow: basics](http://r4ds.had.co.nz/workflow-basics.html)<br /> [Chapter 6 - Workflow: scripts](http://r4ds.had.co.nz/workflow-scripts.html)<br />[Chapter 10 - Tibbles](http://r4ds.had.co.nz/tibbles.html)<br />[Chapter 11 - Data Import](http://r4ds.had.co.nz/data-import.html)<br />[Chapter 14 - Strings](http://r4ds.had.co.nz/strings.html)<br />[Chapter 15 - Factors](http://r4ds.had.co.nz/factors.html)<br />[Chapter 20 - Vectors](http://r4ds.had.co.nz/vectors.html)
-|2 | <b>Measures of disease</b> |Prevalence <br /> Incidence <br />  [Converting Between Incidence & Prevalence](https://jadebc.shinyapps.io/convert-inc-prev/)||
+|2 | <b>Measures of disease</b> | 2.1 Prevalence <br /> 2.2 Incidence <br />  [2.3 Converting Between Incidence & Prevalence](https://jadebc.shinyapps.io/convert-inc-prev/)||
 |3 | <b>Measures of association</b> |||
 |3.1 | Risk differences |||
 |2.6 | Risk Ratios |||
