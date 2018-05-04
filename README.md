@@ -1,15 +1,15 @@
 # Introduction to R for Epidemiologists
 
-Topic | Tutorial  | Homework  | Reading
-:--   | :-:       | :-:       | :-:    
-Introduction to R | R Basics | HW1 (due 9/5) | [Chapter 1](http://r4ds.had.co.nz/index.html)
-Prevalence |||
-Incidence |||
-Converting Between Incidence & Prevalence |[Tutorial](https://jadebc.shinyapps.io/convert-inc-prev/)||
-Risk differences |||
-Risk Ratios |||
-Odds Ratios |||
-Population Attributable Fractions |||
+# | Topic | Tutorial  | Homework  | Reading
+:--  | :-: | :-:       | :-:       | :-:    
+1 | Introduction to R | R Basics | HW1 (due 9/5) | [Chapter 1](http://r4ds.had.co.nz/index.html)
+2 | Prevalence |||
+3 | Incidence |||
+4 | Converting Between Incidence & Prevalence |[Tutorial](https://jadebc.shinyapps.io/convert-inc-prev/)||
+5 | Risk differences |||
+6 | Risk Ratios |||
+7 | Odds Ratios |||
+8 | Population Attributable Fractions |||
 
 # Contact
 [Jade Benjamin-Chung](mailto:jadebc@berkeley.edu)  
