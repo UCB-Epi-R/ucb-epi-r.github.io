@@ -2,7 +2,7 @@
 
 |# | Topic | Tutorial  | Homework  | Reading
 |--- | :--- | :---:       | :---:       | :---:    
-|1 | Introduction to R | R Basics | HW1 (due 9/5) | [Chapter 1 - Introduction](http://r4ds.had.co.nz/index.html) [Chapter 4 - Workflow: basics](http://r4ds.had.co.nz/workflow-basics.html) [Chapter 6 - Workflow: scripts](http://r4ds.had.co.nz/workflow-scripts.html)
+|1 | Introduction to R | R Basics | HW1 (due 9/5) | [Chapter 1 - Introduction](http://r4ds.had.co.nz/index.html) \\ [Chapter 4 - Workflow: basics](http://r4ds.had.co.nz/workflow-basics.html)\\ [Chapter 6 - Workflow: scripts](http://r4ds.had.co.nz/workflow-scripts.html)
 |2 | Prevalence |||
 |3 | Incidence |||
 |4 | Converting Between Incidence & Prevalence |[Tutorial](https://jadebc.shinyapps.io/convert-inc-prev/)||
