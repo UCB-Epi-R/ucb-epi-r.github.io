@@ -1,7 +1,7 @@
 # Introduction to R for Epidemiologists
 
 # | Topic | Tutorial  | Homework  | Reading
---- | :---: | :---:       | :---:       | :---:    
+:--- | :---: | :---:       | :---:       | :---:    
 1 | Introduction to R | R Basics | HW1 (due 9/5) | [Chapter 1](http://r4ds.had.co.nz/index.html)
 2 | Prevalence |||
 3 | Incidence |||
