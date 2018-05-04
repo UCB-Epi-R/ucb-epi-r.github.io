@@ -3,7 +3,7 @@
 Welcome! This course assumes knowledge of epidemiology but does not assume knowledge of R. It is intended to introduce epidemiologists to R for their research. 
 
 - For each topic, there is an online tutorial that does not require you to install or use R. You can complete everything in your browser. Complete these before doing the homework assignments. 
-- To download homework assignments and data for homework assignments, right click on the links in the table below and select `save link as`.
+- To download homework assignments and data for homework assignments, right click on the links in the table below and select "save link as".
 - The reading suggestions are from Hadley Wickham's free ebook [R for Data Science](http://r4ds.had.co.nz/index.html). These are optional readings that can serve as a supplement to the tutorials for students who find them helpful. 
 
 |# | Topic | Tutorials  | Homework  | Optional Reading
