@@ -14,15 +14,15 @@ Welcome! This course assumes knowledge of epidemiology but does not assume knowl
 |2.2 | Make new variables |[Incidence](https://jadebc.shinyapps.io/Incidence/) | <a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_mod.R" download>Homework</a> <br /> <a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_mod.RData" download>Data</a>| [Iteration](http://r4ds.had.co.nz/iteration.html)
 |2.3 | Write functions|[Convert between incidence and prevalence](https://jadebc.shinyapps.io/convert-inc-prev/) <br /> <br />[Risk differences](https://jadebc.shinyapps.io/Risk_difference/)  |<a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_mod.R" download>Homework</a> <br /> <a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_mod.RData" download>Data</a>|  [Functions](http://r4ds.had.co.nz/functions.html)
 |2.4 | Apply functions|TBD  |<a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_mod.R" download>Homework</a> <br /> <a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_mod.RData" download>Data</a>|  [Iteration](http://r4ds.had.co.nz/iteration.html)
-|4 | <b>Analyzing cohort studies</b> |||
-|5 | <b>Analyzing trials</b> |||
-|6 | <b>Analyzing case-control studies</b> |||
-|7 | <b>Analyzing other types of studies</b> |||
-|8 | <b>Bias & confounding</b> |||
-|9 | <b>Effect modification</b> |||
-|11 | <b>Regression models </b> |||
-|12 | <b>Sample size & power </b> |||
-|13 | <b>Making reports in R</b> |||
+|3 | <b>Exploratory data analysis</b> |||
+|3.1 | Data visualization | Data visualization|| [Data visualization](http://r4ds.had.co.nz/data-visualisation.html)
+|4 | <b>Epidemiologic data analysis</b> |||
+|4.1 | Working with relational data |||
+|4.2 | Estimating measures of association |||
+|5 | <b>Reproducible workflows</b> |||
+|5.1| Rmarkdown |||
+|5.2 | Tables in R |||
+|5.3 | Graphs in R |||
 
 
 
