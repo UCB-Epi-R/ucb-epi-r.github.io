@@ -15,7 +15,7 @@ Welcome! This course assumes knowledge of epidemiology but does not assume knowl
 |2.3 | Write functions|[Convert between incidence and prevalence](https://jadebc.shinyapps.io/convert-inc-prev/) <br /> <br />[Risk differences](https://jadebc.shinyapps.io/Risk_difference/)  |<a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_mod.R" download>Homework</a> <br /> <a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_mod.RData" download>Data</a>|  [Functions](http://r4ds.had.co.nz/functions.html)
 |2.4 | Apply functions|TBD  |<a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_mod.R" download>Homework</a> <br /> <a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_mod.RData" download>Data</a>|  [Iteration](http://r4ds.had.co.nz/iteration.html)
 |3 | <b>Exploratory data analysis</b> |||
-|3.1 | Data visualization | Data visualization|| [Data visualization](http://r4ds.had.co.nz/data-visualisation.html)
+|3.1 | Data visualization | Data visualization|<a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_datavis.R" download>Homework</a> <br /> <a href="https://osf.io/sn38y/">Data</a>| [Data visualization](http://r4ds.had.co.nz/data-visualisation.html)
 |4 | <b>Epidemiologic data analysis</b> |||
 |4.1 | Working with relational data |||
 |4.2 | Estimating measures of association |||
