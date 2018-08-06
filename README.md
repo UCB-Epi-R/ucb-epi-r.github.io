@@ -14,10 +14,10 @@ Welcome! This course assumes knowledge of epidemiology but does not assume knowl
 |4 | Write functions|[Functions](https://jadebc.shinyapps.io/Functions/) |<a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_functions.R" download>Homework</a>|  [Functions](http://r4ds.had.co.nz/functions.html)
 |5 | Iterations |TBD  |<a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_mod.R" download>Homework</a> <br /> <a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_mod.RData" download>Data</a>|  [Iteration](http://r4ds.had.co.nz/iteration.html)
 |6 | Data visualization | Data visualization|<a href="https://github.com/jadebc-berkeley/PH250B/blob/master/homework/hw_datavis.R" download>Homework</a> <br /> <a href="https://osf.io/sn38y/">Data</a>| [Data visualization](http://r4ds.had.co.nz/data-visualisation.html)
-|7 | Epidemiologic data analysis |||
-|8 | Working with relational data |||
+|7 | Working with relational data |||
+|8 | Epidemiologic data analysis |||
 |9 | Estimating measures of association |||
-|10 | <b>Reproducible workflows</b> |||
+|10 | Reproducible workflows |||
 |11 | Tables in R |||
 |12 | Graphs in R |||
 
