@@ -4,8 +4,13 @@
 
 # Solutions: Data visualization
 #####################################
+# Change the directory in the line below to 
+# the location where you saved your homework scripts.
+# Be sure to keep the quotes around the directory name. 
+setwd("<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>")
+
 # Load okR autograder
-source( "/Users/jadederong/Documents/CRG/PH250B/homework/hw_datavis_ok.R")
+source("hw_datavis_ok.R")
 AutograderInit()
 
 # Read in the water quality dataset from the Surfer Health Study:

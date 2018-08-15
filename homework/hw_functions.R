@@ -4,6 +4,11 @@
 
 # Homework: Functions
 #####################################
+# Change the directory in the line below to 
+# the location where you saved your homework scripts.
+# Be sure to keep the quotes around the directory name. 
+setwd("<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>")
+
 # Load okR autograder
 source("hw_functions_ok.R")
 AutograderInit()
