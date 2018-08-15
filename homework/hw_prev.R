@@ -7,7 +7,7 @@
 # Change the directory in the line below to 
 # the location where you saved your homework scripts.
 # Be sure to keep the quotes around the directory name. 
-setwd("/Users/jadederong/Documents/CRG/PH250B/homework/")
+setwd("<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>")
 
 # Load okR autograder
 source("hw_prev_ok.R")
