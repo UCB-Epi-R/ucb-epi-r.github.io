@@ -14,12 +14,10 @@ Welcome! This course assumes knowledge of epidemiology but does not assume knowl
 |4 | Write functions|[Functions](https://jadebc.shinyapps.io/Functions/) |<a href="https://github.com/UCB-Epi-R/R-for-epi/blob/master/homework/hw_functions.R" download>Homework</a>|  [Functions](http://r4ds.had.co.nz/functions.html)
 |5 | Iterations |[Iteration](https://jadebc.shinyapps.io/Iteration/)  |<a href="https://github.com/UCB-Epi-R/R-for-epi/blob/master/homework/iteration.R" download>Homework</a> <br /> <a href="https://github.com/UCB-Epi-R/R-for-epi/blob/master/homework/hw_mod.RData" download>Data</a>|  [Iteration](http://r4ds.had.co.nz/iteration.html)
 |6 | Data visualization | [Data visualization](https://jadebc.shinyapps.io/datavis)|<a href="https://github.com/UCB-Epi-R/R-for-epi/blob/master/homework/hw_datavis.R" download>Homework</a> <br /> <a href="https://osf.io/sn38y/">Data</a>| [Data visualization](http://r4ds.had.co.nz/data-visualisation.html)
-|7 | Working with relational data |||
-|8 | Epidemiologic data analysis |||
-|9 | Estimating measures of association |||
-|10 | Reproducible workflows |||
-|11 | Tables in R |||
-|12 | Graphs in R |||
+|7 | Working with relational data |*Coming soon*||
+|8 | Epidemiologic data analysis |*Coming soon*||
+|9 | Reproducible workflows |*Coming soon*||
+
 
 
 
