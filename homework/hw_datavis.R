@@ -4,17 +4,17 @@
 
 # Solutions: Data visualization
 #####################################
-# Change the directory in the line below to 
-# the location where you saved your homework scripts.
-# Be sure to keep the quotes around the directory name. 
-setwd("<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>")
-
 # Load okR autograder
-source("hw_datavis_ok.R")
+devtools::source_gist(id='051cfa90f886c41d0053335fe0e7f1a1', filename='hw_datavis_ok.R', quiet = TRUE)
 AutograderInit()
 
+# Fill in the location on your computer where you saved 
+# the data in the quotes below (e.g., "C:/homework")
+data_dir = "<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>"
+
+
 # Read in the water quality dataset from the Surfer Health Study:
-wq = read.csv(paste0(here::here(),"/Surfer-data/shs-wq-public.csv"))
+wq = read.csv(paste0(data_dir,"/Surfer-data/shs-wq-public.csv"))
 
 # In this problem set we will investigate the relationship
 # between precipitation and fecal coliform. We will 

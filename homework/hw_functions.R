@@ -4,13 +4,8 @@
 
 # Homework: Functions
 #####################################
-# Change the directory in the line below to 
-# the location where you saved your homework scripts.
-# Be sure to keep the quotes around the directory name. 
-setwd("<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>")
-
 # Load okR autograder
-source("hw_functions_ok.R")
+devtools::source_gist(id='ebf271c665c5d7a83b57dfc8fd15b8e7', filename='hw_functions_ok.R', quiet = TRUE)
 AutograderInit()
 
 # In this assignment, we'll use the same 2x2 table

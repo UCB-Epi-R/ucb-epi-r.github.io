@@ -4,13 +4,8 @@
 
 # Homework: Incidence
 #################################################
-# Change the directory in the line below to 
-# the location where you saved your homework scripts.
-# Be sure to keep the quotes around the directory name. 
-setwd("<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>")
-
 # Load okR autograder
-source("hw_inc_ok.R")
+devtools::source_gist(id='b7765ccf9007935f0c7b3f0fbb55b60b', filename='hw_inc_ok.R', quiet = TRUE)
 AutograderInit()
 
 #################################################
@@ -20,7 +15,7 @@ AutograderInit()
 library(dplyr)
 
 # Fill in your data directory in the quotes below
-data.dir = ""
+data_dir = "<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>"
 
 # Then read in the data for this assignment 
 # that you downloaded from the course website. 
@@ -28,7 +23,7 @@ data.dir = ""
 # to use the load command to load the data. 
 # Fill the R data file name in the quotes below 
 # without the data directory information.
-load(paste0(data.dir,"hw_incidence.RData"))
+load(paste0(data_dir,"hw_incidence.RData"))
 
 
 #################################################

@@ -4,13 +4,8 @@
 
 # Homework: Prevalence
 #################################################
-# Change the directory in the line below to 
-# the location where you saved your homework scripts.
-# Be sure to keep the quotes around the directory name. 
-setwd("<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>")
-
 # Load okR autograder
-source("hw_prev_ok.R")
+devtools::source_gist(id='f3e5c050f617990f4f255d1aada0f396', filename='hw_prev_ok.R', quiet = TRUE)
 AutograderInit()
 
 #################################################
@@ -39,13 +34,13 @@ library(dplyr)
 # interventions were delivered. Fill in the location
 # on your computer where you saved the data in the 
 # the quotes below (e.g., "C:/homework")
-data.dir = "<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>"
+data_dir = "<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>"
 
 # Load the diarrhea dataset:
-d = read.csv(paste0(data.dir,"washb-bangladesh-diar-public.csv"))
+d = read.csv(paste0(data_dir,"washb-bangladesh-diar-public.csv"))
 
 # Load the dataset with 
-tr = read.csv(paste0(data.dir,"washb-bangladesh-tr-public.csv"))
+tr = read.csv(paste0(data_dir,"washb-bangladesh-tr-public.csv"))
 
 # Next let's merge the two datasets together.
 # This will allow us to calculate the prevalence
