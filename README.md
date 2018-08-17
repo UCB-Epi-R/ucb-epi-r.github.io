@@ -1,10 +1,6 @@
 # Introduction to R for Epidemiologists
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=QD3pNsR4zq8">
-</iframe>
-
-
+[![Youtube](r-for-epi.png)](https://www.youtube.com/watch?v=QD3pNsR4zq8)
 
 
 Welcome! This course assumes knowledge of epidemiology but does not assume knowledge of R. It is intended to introduce epidemiologists to R for their research. 
