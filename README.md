@@ -6,7 +6,10 @@ Welcome! This course assumes knowledge of epidemiology but does not assume knowl
 - To download homework assignments and data for homework assignments, right click on the links in the table below and select "save link as". It is recommended that you complete homework assignments in [RStudio](https://www.rstudio.com/products/rstudio/download/#download). Homework must be submitted through [okpy.org](https://okpy.org/) (use links below).
 - The reading suggestions are from Hadley Wickham's free ebook [R for Data Science](http://r4ds.had.co.nz/index.html). These are optional readings that can serve as a supplement to the tutorials for students who find them helpful. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QD3pNsR4zq8" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=QD3pNsR4zq8">
+</iframe>
+
 
 |# | Topic | Tutorials  | Homework  | Optional Reading
 |--- | :--- | :---       | :---       | :---   
