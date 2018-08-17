@@ -6,7 +6,7 @@ Welcome! This course assumes knowledge of epidemiology but does not assume knowl
 - To download homework assignments and data for homework assignments, right click on the links in the table below and select "save link as". It is recommended that you complete homework assignments in [RStudio](https://www.rstudio.com/products/rstudio/download/#download). Homework must be submitted through [okpy.org](https://okpy.org/) (use links below). Only students registered in UC Berkeley intermediate epidemiology courses will be able to submit homework for grading. 
 - The reading suggestions are from Hadley Wickham's free ebook [R for Data Science](http://r4ds.had.co.nz/index.html). These are optional readings that can serve as a supplement to the tutorials for students who find them helpful. 
 
-### Video tutorial:
+#### Video on how to use this site:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QD3pNsR4zq8/0.jpg)](https://www.youtube.com/watch?v=QD3pNsR4zq8) 
 
 
