@@ -7,7 +7,7 @@ Welcome! This course assumes knowledge of epidemiology but does not assume knowl
 - The reading suggestions are from Hadley Wickham's free ebook [R for Data Science](http://r4ds.had.co.nz/index.html). These are optional readings that can serve as a supplement to the tutorials for students who find them helpful. 
 
 ### Video tutorial:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QD3pNsR4zq8/0.jpg)](https://www.youtube.com/watch?v=QD3pNsR4zq8)
+<p align="center"> [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QD3pNsR4zq8/0.jpg)](https://www.youtube.com/watch?v=QD3pNsR4zq8) </p>
 
 
 |# | Topic | Tutorials  | Homework  | Optional Reading
