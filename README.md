@@ -1,14 +1,18 @@
 # Introduction to R for Epidemiologists
 
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=QD3pNsR4zq8">
+</iframe>
+
+
+
+
 Welcome! This course assumes knowledge of epidemiology but does not assume knowledge of R. It is intended to introduce epidemiologists to R for their research. 
 
 - For each topic, there is an online tutorial that can be completed online without installing R on your desktop. Complete these before doing the homework assignments. 
 - To download homework assignments and data for homework assignments, right click on the links in the table below and select "save link as". It is recommended that you complete homework assignments in [RStudio](https://www.rstudio.com/products/rstudio/download/#download). Homework must be submitted through [okpy.org](https://okpy.org/) (use links below).
 - The reading suggestions are from Hadley Wickham's free ebook [R for Data Science](http://r4ds.had.co.nz/index.html). These are optional readings that can serve as a supplement to the tutorials for students who find them helpful. 
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=QD3pNsR4zq8">
-</iframe>
 
 
 |# | Topic | Tutorials  | Homework  | Optional Reading
