@@ -6,6 +6,11 @@ Welcome! This course assumes knowledge of epidemiology but does not assume knowl
 - To download homework assignments and data for homework assignments, right click on the links in the table below and select "save link as". It is recommended that you complete homework assignments in [RStudio](https://www.rstudio.com/products/rstudio/download/#download). Homework must be submitted through [okpy.org](https://okpy.org/) (use links below).
 - The reading suggestions are from Hadley Wickham's free ebook [R for Data Science](http://r4ds.had.co.nz/index.html). These are optional readings that can serve as a supplement to the tutorials for students who find them helpful. 
 
+<div align="center">
+   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=QD3pNsR4zq8" frameborder="0" allowfullscreen>
+   </iframe>
+</div>
+
 |# | Topic | Tutorials  | Homework  | Optional Reading
 |--- | :--- | :---       | :---       | :---   
 |1 | Introduction to R |[Intro to R](https://jadebc.shinyapps.io/intro-to-R/)  | [Submit here](https://okpy.org/cal/phw250f/fa18/hw_introduction_to_r/) | [Workflow basics](http://r4ds.had.co.nz/workflow-basics.html), [Scripts](http://r4ds.had.co.nz/workflow-scripts.html), [Tibbles](http://r4ds.had.co.nz/tibbles.html), <br /> [Data Import](http://r4ds.had.co.nz/data-import.html), [Strings](http://r4ds.had.co.nz/strings.html), [Factors](http://r4ds.had.co.nz/factors.html), [Vectors](http://r4ds.had.co.nz/vectors.html)
