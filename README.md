@@ -2,7 +2,7 @@
 
 
 
-<div style="text-align:center">[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QD3pNsR4zq8/0.jpg)](https://www.youtube.com/watch?v=QD3pNsR4zq8) </div>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QD3pNsR4zq8/0.jpg)](https://www.youtube.com/watch?v=QD3pNsR4zq8)
 
 Welcome! This course assumes knowledge of epidemiology but does not assume knowledge of R. It is intended to introduce epidemiologists to R for their research. 
 
