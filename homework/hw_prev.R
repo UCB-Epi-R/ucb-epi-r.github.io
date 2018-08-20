@@ -4,7 +4,7 @@
 
 # Homework: Prevalence
 #################################################
-# Set up R homeworks
+# Install packages required for R homework
 devtools::source_gist(id='5803c054fc2250054a3716b71c0b8b70', filename='hw_setup.R', quiet = TRUE)
                         
 # Load okR autograder
