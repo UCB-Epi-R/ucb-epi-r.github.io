@@ -4,6 +4,9 @@
 
 # Homework: Prevalence
 #################################################
+# Set up R homeworks
+devtools::source_gist(id='5803c054fc2250054a3716b71c0b8b70', filename='hw_setup.R', quiet = TRUE)
+                        
 # Load okR autograder
 devtools::source_gist(id='f3e5c050f617990f4f255d1aada0f396', filename='hw_prev_ok.R', quiet = TRUE)
 AutograderInit()
