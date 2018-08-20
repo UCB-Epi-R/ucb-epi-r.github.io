@@ -14,7 +14,13 @@ AutograderInit()
 # Load the dplyr package
 library(dplyr)
 
-# Fill in your data directory in the quotes below
+# In this problem set we will calculate incidence
+# using different formulas. 
+# Fill in the location on your computer where you 
+# saved the data for this homework assignment in the 
+# the quotes below (e.g., "C:/homework/").
+# Make sure to include the final "/" at the end of 
+# the directory. 
 data_dir = "<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>"
 
 # Then read in the data for this assignment 

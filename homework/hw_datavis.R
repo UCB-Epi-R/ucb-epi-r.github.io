@@ -9,7 +9,9 @@ devtools::source_gist(id='051cfa90f886c41d0053335fe0e7f1a1', filename='hw_datavi
 AutograderInit()
 
 # Fill in the location on your computer where you saved 
-# the data in the quotes below (e.g., "C:/homework")
+# the data in the quotes below (e.g., "C:/homework").
+# Make sure to include the final "/" at the end of 
+# the directory. 
 data_dir = "<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>"
 
 

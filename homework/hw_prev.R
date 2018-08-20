@@ -33,7 +33,9 @@ library(dplyr)
 # of diarrhea in different treatment arms after the 
 # interventions were delivered. Fill in the location
 # on your computer where you saved the data in the 
-# the quotes below (e.g., "C:/homework")
+# the quotes below (e.g., "C:/homework/").
+# Make sure to include the final "/" at the end of 
+# the directory. 
 data_dir = "<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>"
 
 # Load the diarrhea dataset:
