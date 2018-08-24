@@ -5,7 +5,7 @@
 # Solutions: Data visualization
 #####################################
 # Load okR autograder
-devtools::source_gist(id='051cfa90f886c41d0053335fe0e7f1a1', filename='hw_datavis_ok.R', quiet = TRUE)
+devtools::source_gist(id='051cfa90f886c41d0053335fe0e7f1a1', filename='hw_datavis.ok.R', quiet = TRUE)
 AutograderInit()
 
 # Fill in the location on your computer where you saved 

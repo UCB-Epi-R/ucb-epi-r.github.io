@@ -5,7 +5,7 @@
 # Homework: Functions
 #####################################
 # Load okR autograder
-devtools::source_gist(id='ebf271c665c5d7a83b57dfc8fd15b8e7', filename='hw_functions_ok.R', quiet = TRUE)
+devtools::source_gist(id='ebf271c665c5d7a83b57dfc8fd15b8e7', filename='hw_functions.ok.R', quiet = TRUE)
 AutograderInit()
 
 # In this assignment, we'll use the same 2x2 table
