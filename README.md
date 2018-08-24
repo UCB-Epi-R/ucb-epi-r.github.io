@@ -7,14 +7,14 @@ Welcome! This course assumes knowledge of epidemiology but does not assume knowl
 - The reading suggestions are from Hadley Wickham's free ebook [R for Data Science](http://r4ds.had.co.nz/index.html). These are optional readings that can serve as a supplement to the tutorials for students who find them helpful. 
 
 #### Video on how to use this site:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QD3pNsR4zq8/0.jpg)](https://www.youtube.com/watch?v=QD3pNsR4zq8) 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OTUK44pqAdo/0.jpg)](https://youtu.be/OTUK44pqAdo) 
 
 **To download homework assignments and data for homework assignments, right click on the links in the table below and select "save link as".** 
 
 |# | Topic | Tutorials  | Homework  | Optional Reading
 |--- | :--- | :---       | :---       | :---   
 |1 | Introduction to R |[Intro to R](https://jadebc.shinyapps.io/intro-to-R/)  | Certificate of completion | [Workflow basics](http://r4ds.had.co.nz/workflow-basics.html), [Scripts](http://r4ds.had.co.nz/workflow-scripts.html), [Tibbles](http://r4ds.had.co.nz/tibbles.html), <br /> [Data Import](http://r4ds.had.co.nz/data-import.html), [Strings](http://r4ds.had.co.nz/strings.html), [Factors](http://r4ds.had.co.nz/factors.html), [Vectors](http://r4ds.had.co.nz/vectors.html)
-|2 | View and summarize data |[Prevalence](https://jadebc.shinyapps.io/prevalence/) |<a href="https://github.com/UCB-Epi-R/R-for-epi/raw/master/homework/hw_prev.zip" download>Homework</a> | [Data transformation](http://r4ds.had.co.nz/transform.html), [Pipes](http://r4ds.had.co.nz/pipes.html)
+|2 | View and summarize data |[Prevalence](https://jadebc.shinyapps.io/prevalence/) |<a href="https://jadebc.shinyapps.io/R-for-epi-hw/"> Homework setup</a> <a href="https://github.com/UCB-Epi-R/R-for-epi/raw/master/homework/hw_prev.zip" download>Homework</a> | [Data transformation](http://r4ds.had.co.nz/transform.html), [Pipes](http://r4ds.had.co.nz/pipes.html)
 |3 | Make calculations with data |[Incidence](https://jadebc.shinyapps.io/Incidence/) | <a href="https://raw.githubusercontent.com/UCB-Epi-R/R-for-epi/master/homework/hw_inc.R" download>Homework</a> | [Data transformation](http://r4ds.had.co.nz/transform.html), [Pipes](http://r4ds.had.co.nz/pipes.html)
 |4 | Write functions|[Functions](https://jadebc.shinyapps.io/Functions/) |<a href="https://raw.githubusercontent.com/UCB-Epi-R/R-for-epi/master/homework/hw_functions.R" download>Homework</a>|  [Functions](http://r4ds.had.co.nz/functions.html)
 |5 | Iterations |[Iteration](https://jadebc.shinyapps.io/Iteration/)  |<a href="https://github.com/UCB-Epi-R/R-for-epi/blob/master/homework/iteration.R" download>Homework</a> |  [Iteration](http://r4ds.had.co.nz/iteration.html)
