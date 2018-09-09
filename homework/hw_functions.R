@@ -3,6 +3,7 @@
 # PHW250F, PHW250G, PH250B
 
 # Homework: Functions
+# Updated on 9/9/18
 #####################################
 # Load okR autograder
 devtools::source_gist(id='ebf271c665c5d7a83b57dfc8fd15b8e7', filename='hw_functions.ok.R', quiet = TRUE)
@@ -56,6 +57,10 @@ CheckProblem2()
 # Call the function estimate_rr_ci
 # Be sure to report the CI on the correct scale
 # (i.e., not on the ln scale but on the RR scale)
+
+# Instead of using 1.96, use the code qnorm(0.975), 
+# which provides you with the same number with 
+# additional digits for precision. 
 #------------------------------------
 estimate_rr_ci = "<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>"
 
@@ -106,6 +111,10 @@ CheckProblem6()
 # Call the function estimate_or_ci
 # Be sure to report the CI on the correct scale
 # (i.e., not on the ln scale but on the RR scale)
+
+# Instead of using 1.96, use the code qnorm(0.975), 
+# which provides you with the same number with 
+# additional digits for precision. 
 #------------------------------------
 estimate_or_ci = "<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>"
 
@@ -148,5 +157,10 @@ p10 = "<<<<<<<<<<<<< YOUR CODE HERE >>>>>>>>>>>>>>>"
 
 # Check your answer
 CheckProblem10()
+
+# --------------------------------------------
+# Check your total score
+MyTotalScore()
+# --------------------------------------------
 
 
