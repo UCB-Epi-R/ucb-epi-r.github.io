@@ -18,7 +18,7 @@ Welcome! This course assumes knowledge of epidemiology but does not assume knowl
 |2 | View and summarize data |[Prevalence](https://jadebc.shinyapps.io/prevalence/) |<a href="https://jadebc.shinyapps.io/R-for-epi-hw/"> Homework Setup</a> <a href="https://github.com/UCB-Epi-R/R-for-epi/raw/master/homework/hw_prev.zip" download>Homework</a> | [Data transformation](http://r4ds.had.co.nz/transform.html), [Pipes](http://r4ds.had.co.nz/pipes.html)
 |3 | Make calculations with data |[Incidence](https://jadebc.shinyapps.io/Incidence/) | <a href="https://github.com/UCB-Epi-R/R-for-epi/raw/master/homework/hw_inc.zip" download>Homework</a> | [Data transformation](http://r4ds.had.co.nz/transform.html), [Pipes](http://r4ds.had.co.nz/pipes.html)
 |4 | Write functions|[Functions](https://jadebc.shinyapps.io/Functions/) |[Homework](https://github.com/UCB-Epi-R/R-for-epi/raw/master/homework/hw_functions.zip)|  [Functions](http://r4ds.had.co.nz/functions.html)
-|5 | Iterations |[Iteration](https://jadebc.shinyapps.io/Iteration/)  |Homework |  [Iteration](http://r4ds.had.co.nz/iteration.html)
+|5 | Iterations |[Iteration](https://jadebc.shinyapps.io/Iteration/)  |[Homework](https://github.com/UCB-Epi-R/R-for-epi/raw/master/homework/hw_iteration.zip) |  [Iteration](http://r4ds.had.co.nz/iteration.html)
 |6 | Data visualization | [Data visualization](https://jadebc.shinyapps.io/datavis)|Homework| [Data visualization](http://r4ds.had.co.nz/data-visualisation.html)
 |7 | Working with relational data |*Coming soon*||[Relational data](http://r4ds.had.co.nz/relational-data.html)
 |8 | Epidemiologic data analysis |*Coming soon*||
