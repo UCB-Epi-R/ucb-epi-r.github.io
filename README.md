@@ -3,7 +3,6 @@
 Welcome! This course assumes knowledge of epidemiology but does not assume knowledge of R. It is intended to introduce epidemiologists to R for their research. 
 
 - For each topic, there is an online tutorial that can be completed online without installing R on your desktop. Complete these before doing the homework assignments. 
--  Homework must be submitted through [okpy.org](https://okpy.org/). Only students registered in UC Berkeley intermediate epidemiology courses will be able to submit homework for grading. 
 - The reading suggestions are from Hadley Wickham's free ebook [R for Data Science](http://r4ds.had.co.nz/index.html). These are optional readings that can serve as a supplement to the tutorials for students who find them helpful. 
 
 #### Video on how to use this site:
